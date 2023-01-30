@@ -13,7 +13,7 @@
   "editor.wrappingIndent": "deepIndent",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.fontAliasing": "auto",
-  "workbench.startupEditor": "none",
+  "workbench.startupEditor": "welcomePage",
   "workbench.tree.renderIndentGuides": "always",
   "files.autoSaveDelay": 500,
   "files.exclude": {
